@@ -25,10 +25,13 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://github.com/emreacarc/kodluyoruzilkrepo/blob/main/LICENSE)
 
 ---
+---
 
 ## **Proje Görseli**
 
-![Proje görseli](
+![Proje görseli](JPG\2.jpg)
+
+
 
 
 
