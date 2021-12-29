@@ -29,7 +29,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## **Proje Görseli**
 
-![Proje görseli](JPG/2.jpg)
+![Proje görseli](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
+
 
 
 
