@@ -29,7 +29,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## **Proje Görseli**
 
-![Proje görseli](JPG\2.jpg)
+![Proje görseli](JPG/2.jpg)
 
 
 
